@@ -1,0 +1,10 @@
+c:\users\welcome\documents\visual studio 2010\Projects\WebApplication7\WebApplication7\bin\WebApplication7.dll
+c:\users\welcome\documents\visual studio 2010\Projects\WebApplication7\WebApplication7\bin\WebApplication7.pdb
+c:\users\welcome\documents\visual studio 2010\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
+c:\users\welcome\documents\visual studio 2010\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb
+C:\Users\WelCome\Documents\Visual Studio 2010\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csprojResolveAssemblyReference.cache
+C:\Users\WelCome\Documents\Visual Studio 2010\Projects\originalproject\WebApplication7\bin\WebApplication7.dll
+C:\Users\WelCome\Documents\Visual Studio 2010\Projects\originalproject\WebApplication7\bin\WebApplication7.pdb
+C:\Users\WelCome\Documents\Visual Studio 2010\Projects\originalproject\WebApplication7\obj\Debug\WebApplication7.csprojResolveAssemblyReference.cache
+C:\Users\WelCome\Documents\Visual Studio 2010\Projects\originalproject\WebApplication7\obj\Debug\WebApplication7.dll
+C:\Users\WelCome\Documents\Visual Studio 2010\Projects\originalproject\WebApplication7\obj\Debug\WebApplication7.pdb

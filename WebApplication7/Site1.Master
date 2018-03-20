@@ -1,0 +1,197 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication7.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>HotWebsiteTemplates.net</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<!-- CuFon: Enables smooth pretty custom font rendering. 100% SEO friendly. To disable, remove this section -->
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/arial.js"></script>
+<script type="text/javascript" src="js/cuf_run.js"></script>
+<!-- CuFon ends -->
+
+    <style type="text/css">
+        .style2
+        {
+            text-align: justify;
+        }
+        .style3
+        {
+            font-size: medium;
+        }
+        .style8
+        {
+            text-align: center;
+            font-size: large;
+        }
+        .style9
+        {
+            font-size: large;
+        }
+        .style10
+        {
+            text-align: center;
+            font-size: large;
+            color: #00CC00;
+        }
+        .style11
+        {
+            color: #00CC00;
+        }
+        .style12
+        {
+            float: left;
+            width: 614px;
+            margin: 0;
+            padding: 0 25px;
+            background: url('images/l_bg.gif') no-repeat center top;
+        }
+        </style>
+
+    </head>
+<body>
+    <form id="form1" runat="server">
+<div class="main">
+  <div class="header">
+    <div class="header_resize">
+      <div class="logo"><h1><span><span class="style11" style="color: #00CC00"><a href="index.html">CENTRAL BOARD OF SENIOR SECONDARY</a></span><a href="index.html"><br /><small>Education is our first motto</small></a></h1></div>
+      <div class="clr"></div>
+      <div class="menu">
+        <ul>
+          <li><a href="home.aspx" class="active" style="font-size: medium"><span style="color: #00FF00">Home</span></a></li>
+          <li><a href="login.aspx" class="active" style="font-size: medium"><span style="color: #00FF00">Login</span></a></li>
+          <li><a href="WebForm1.aspx" class="active" style="font-size: medium"><span style="color: #00FF00">Register</span></a></li>
+          <li><a href="cbsecontact.aspx" class="active" style="font-size: medium"><span style="color: #00FF00">Contact Us</span></a></li>
+        </ul>
+      </div>
+      <div>
+          <img src="cin/exam-student1.jpg" 
+              style="width: 950px; height: 446px; margin-bottom: 0px" /></div>
+   
+  <div class="body">
+      
+    <div class="body_resize">
+      <div class="style12">
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"> 
+          <h2 class="style11" style="color: #00CC00" align="center">
+              About us</h2>
+          <table>
+              <tr>
+                  <td>
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+                      &nbsp;</td>
+                  <td>
+                      <img src="cbseimg/cce-logo.jpg"  height="200" width="180"
+     /></td>
+                  <td>
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                      &nbsp;</td>
+              </tr>
+          </table>
+          <br class="style11" />
+          <p class="style2">
+              A trail of developments mark the significant changes that took place over the 
+              years in shaping up the Board to its present status. U P Board of High School 
+              and Intermediate Education was the first Board set up in 1921. It has under its 
+              jurisdiction Rajputana, Central India and Gwalior. In response to the 
+              representation made by the Government of United Provinces, the then Government 
+              of India suggested to set up a joint Board in 1929 for all the areas which was 
+              named as the &#39;Board of High School and Intermediate Education, Rajputana&#39;. This 
+              included Ajmer, Merwara, Central India and Gwalior. The Board witnessed rapid 
+              growth and expansion at the level of Secondary education resulting in improved 
+              quality and standard of education in institutions. But with the advent of State 
+              Universities and State Boards in various parts of the country the jurisdiction 
+              of the Board was confined only to Ajmer, Bhopal and Vindhya Pradesh later. As a 
+              result of this, in 1952, the constitution of the Board was amended wherein its 
+              jurisdiction was extended to part-C and Part-D territories and the Board was 
+              given its present name &#39;Central Board of Secondary Education&#39;. It was in the 
+              year 1962 finally that the Board was reconstituted. >
+          </strong>
+          </asp:ContentPlaceHolder>
+      </div>
+      <div class="right">
+          <div class="right">
+        <h2>Categories</h2><li>
+        <ul class="sponsors">
+            <li class="sponsors" style="font-size: medium"><a href="WebForm23.aspx" title="Syllabus">Syllabus</a></li>
+            <li class="sponsors" style="font-size: medium"><a href="WebForm26.aspx" title="Marking Scheme">Marking Scheme</a></li>
+            <li class="sponsors" style="font-size: medium"><a href="WebForm29.aspx" title="Cisco Systems">Gallery</a></li>
+            <li class="sponsors"><a href="WebForm30.aspx" title="Examination Date">Examination Dates</a></li>
+            <li class="sponsors"><a href="WebForm31.aspx" title="Accenture Pvt. Ltd ">Affiliations</a></li>
+        </ul>
+      </div>
+      <div class="clr"></div
+    </div>
+  </div>
+  <div class="FBG">
+    <div class="FBG_resize">
+      <div class="blok" style="text-align: justify">
+        <h2 class="style10">Image Gallery</h2> 
+          <div class="style2">
+          <table><tr>
+          <td><img src="amity1.jpeg"alt="img" width="125" height="68" /></td>
+          <td><img src="amity2.jpeg"alt="img" width="125" height="68" /></td></tr>
+          <tr><td><img src="amity3.jpeg"alt="img" width="125" height="68" /></td>
+          <td><img src="amity4.jpeg"alt="img" width="125" height="68" /></td></tr>
+          <tr><td><img src="amity5.jpeg"alt="img" width="125" height="68" /> </td>
+          <td><img src="images%20(6).jpeg"alt="img" width="125" height="68" /></td></tr>
+          <span class="style3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></table>
+          </div>
+      </div>
+      <div class="blok">
+        <h2><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span class="style9">&nbsp; &nbsp;</span>Announcements</h2>
+        <div>
+        <marquee direction="up"  font-family="Book Antiqua">
+        <ul>
+        <li style="font-family: 'Arial Black'; color: #FF0000">* Inviting suggestions on rationalising cirrculum/sylabus/subject content for class 1-12.</li>
+        <li style="font-family: 'Arial Black'; color: #0033CC">* Online practical marks submission of class 12-last date extended to 10-3-2018.</li>
+        <li style="font-family: 'Arial Black'; color: #CC3399">* Riders to appointment of scribe in case of sudden illness.</li>
+        <li style="font-family: 'Arial Black'; color: #009933">* Passing criteria for class 10 students of 2017-18 batch as one time measure.</li>
+        <li style="font-family: 'Arial Black'; color: #660066">* Additional concessions/facilities for candidates with special needs.</li>
+        <li style="font-family: 'Arial Black'; color: #800000">* Advisory regarding issue of CBSE admit card .</li>
+        <li style="font-family: 'Arial Black'; color:#CC3399">* Message for children from the chairperson.</li>
+        </ul></marquee>
+        </div>
+        
+     
+   
+        </div>
+      
+      <div class="blok">
+        <h2 class="style8">Recent Toppers<table>
+        <tr><td>
+            <img src="alumini%201.jpg" width="125" height="76"/></td> <td>
+                <img src="alumini%202.jpg" width="125" height="76" /></td></tr>
+                <tr>
+                <td class="style3" >Manika Varma,St. Paul's College</td>
+                <td class="style3" >Veronica Kapoor,Rani Laxmi Bai</td></tr>
+                <tr>
+                <td>
+                    <img src="download%20(2).jpeg" width="125" height="76"/>
+                </td>
+                <td>
+                    <img src="images%20(11).jpeg" width="125" height="76"/></td></tr>
+                <tr>
+                <td class="style3">Siddharth Sethi,Delhi Public School</td>
+                <td class="style3">Piyush Sharma,Army Public School</td></tr>
+        </table> 
+        </p>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="footer_resize">
+      <p>© Copyright AmityUniversity.All rights reserved
+    <div class="clr"></div>
+  </div>
+  </div>
+</div>
+    </form>
+</body>
+</html>
+
+    
+

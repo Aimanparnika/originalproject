@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+/* CSS Document */
+body{margin:0; background:#e8e8e8 url(../images/bg-body.jpg) repeat-x;}
+#template{width:929px; margin:0 auto;}
+#header{float:left; height:43px; width:100%; padding-top:8px;top:-59px;}
+#banner{float:left; width:100%; }
+#bodysection{float:left; width:100%;}
+.campuses{float:left; width:100%;}
+.campuses ul{list-style-type:none;}
+.campuses li{display:inline; width:185px; height:145px; padding:8px 0 0 0; float:left;}
+#footer_wrapper{width:978px; margin:0 auto;}
+#footer{float:left; background:url(../images/footer-bg.png); height:28px; width:978px; font:12px/18px verdana; color:#FFFFFF; text-align:center; padding-top:20px;}
+
+/*commo css */
+a{text-decoration:none;}
+a img{border:0;}
+.fixed{height:21px;}
+.set{position:relative; top:-20px; float:left; height:20px; width:380px;}
+a:focus{outline:none;}
+ul,li{margin:0; padding:0;}
+.on_left{float:left; margin-left:30px; }
+.logo_top{position:relative; top:-10px;}
+.on_right{float:right;}
+.top_position{position:relative; }
+h1{margin:0; padding:5px 0 5px 5px; width:917px; font:20px/18px Trebuchet MS; background:url(../images/bg-h1.jpg) repeat-x;  border:1px solid #d5d1c8;}
+h1 span{color:#032d78; font-size:15px;}
+/*h1 a:hover{color:#0066FF;}*/
+
